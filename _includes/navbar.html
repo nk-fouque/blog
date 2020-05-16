@@ -1,7 +1,7 @@
 <!-- Navigation -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-primary fixed-top">
     <div class="container">
-        <a class="navbar-brand" href="/blog">Nick's Elucubrations</a>
+        <a class="navbar-brand" href="{{ site.baseurl }}/">Nick's Elucubrations</a>
         <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarResponsive"
                 aria-controls="navbarResponsive" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -9,21 +9,21 @@
         <div class="collapse navbar-collapse" id="navbarResponsive">
             <ul class="navbar-nav ml-auto">
                 <li class="nav-item">
-                    <a class="nav-link" href="/">Resume</a>
+                    <a class="nav-link" href="/resume">Resume</a>
                 </li>
-                {% if page.layout == "blog-home" or page.layout== "post" %}
+                {% if page.layout == "home" or page.layout== "post" %}
                 <li class="nav-item active">
                     {% else %}
                 <li class="nav-item ">
                     {% endif %}
-                    <a class="nav-link" href="/blog">Blog</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/">Blog</a>
                 </li>
                 {% if page.name == "README.md" %}
                 <li class="nav-item active">
                     {% else %}
                 <li class="nav-item">
                     {% endif %}
-                    <a class="nav-link" href="/about">About</a>
+                    <a class="nav-link" href="{{ site.baseurl }}/about">About</a>
                 </li>
             </ul>
         </div>

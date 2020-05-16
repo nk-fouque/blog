@@ -1,32 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/" rel="alternate" type="text/html" /><updated>2020-05-16T15:49:41+02:00</updated><id>http://localhost:4000/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">An engineering diploma</title><link href="http://localhost:4000/insa-formation/" rel="alternate" type="text/html" title="An engineering diploma" /><published>2020-04-13T11:43:00+02:00</published><updated>2020-04-13T11:43:00+02:00</updated><id>http://localhost:4000/insa-formation</id><content type="html" xml:base="http://localhost:4000/insa-formation/">&lt;h2 id=&quot;origins-of-this-article&quot;&gt;Origins of this article&lt;/h2&gt;
-
-&lt;p&gt;At the start of my 4th Year at INSA Rennes, our teacher needed someone to take care of the conferences with professionals. 
-He is always looking look for contacts who are willing to give a conference for the students but he can’t always be there to welcome them when they come. 
-So, with two other students, we took upon us the task of welcoming the conference speakers get them what they needed.&lt;/p&gt;
-
-&lt;p&gt;Be it when we were exchanging mails to prepare the things they might need or when we accompanied them to the conference room, 
-we had a little time to chat about their conference’s subject and they would occasionally ask about us students and our familiarity with the subjects. 
-And I often realised that most people in the industry don’t really know what we do here.. 
-I can’t blame them, they only know us through internships or these kind of conferences, 
-they might know that one alumni who worked in their company on that project, but that will tell nothing about the formation itself.&lt;/p&gt;
-
-&lt;p&gt;So I figured I would try to summarize what students in Computer Science at INSA Rennes learn during their studies, as that could help recruiters know what they can expect.
-But the writing of this article took an particular turn, and for a simple reason : It is almost impossible to make generalizations about CS engineering students !&lt;/p&gt;
-
-&lt;p&gt;The teachers were not exaggerating when they said that no two INSA Engineers are alike, at least that’s true for the CS department
-I mean almost half of what we do is choice-based : group projects, options, specializations, etc..
-Of course we do have a common set of courses that every CS student attends, and I will try to summarize in a dedicated section, 
-but for the rest, the best I can do is provide you with questions you can ask a student to get to know what they are like.&lt;/p&gt;
-
-&lt;h2 id=&quot;the-common-cursus&quot;&gt;The common cursus&lt;/h2&gt;
-
-&lt;h2 id=&quot;specializations&quot;&gt;Specializations&lt;/h2&gt;
-
-&lt;h2 id=&quot;group-projects&quot;&gt;Group projects&lt;/h2&gt;
-
-&lt;h2 id=&quot;internship&quot;&gt;Internship&lt;/h2&gt;
-
-&lt;h2 id=&quot;options&quot;&gt;Options&lt;/h2&gt;</content><author><name>nick</name></author><summary type="html">Origins of this article</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T13:20:51+02:00</published><updated>2020-04-10T13:20:51+02:00</updated><id>http://localhost:4000/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-05-20T10:58:22+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T13:20:51+02:00</published><updated>2020-04-10T13:20:51+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 

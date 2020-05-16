@@ -18,7 +18,7 @@ title: "Nick's Rants"
 description: "I just wanted to set up a blog so it's already there if I ever need it"
 logo: 'assets/images/logo.png'
 favicon: 'assets/img/profile.png'
-baseurl: ''
+baseurl: '/blog'
 google_analytics: ''
 disqus: ''
 mailchimp-list: ''
