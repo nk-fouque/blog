@@ -1,40 +1,39 @@
-{% include resume/header.html %}
+---
+title: Nick's Blog
+layout: blog
+---
 
-<body id="page-top">
+<!-- Posts Index
+================================================== -->
+<section class="recent-posts">
 
-{% include resume/navbar.html %}
+    <div class="section-title">
 
-<div class="container-fluid p-0">
-    <section class="resume-section p-3 p-lg-5 d-flex align-items-center" id="about">
-        {% include resume/section/about.html %}
-    </section>
+        <h2><span>All Stories</span></h2>
 
-    <hr class="m-0">
+    </div>
 
-                {% include resume/section/work_experience.html %}
+    <div class="row listrecent">
 
-                {% include resume/section/school_experience.html %}
+        {% for post in site.posts %}
+        {% if post.layout == "post" %}
+        {% include postbox.html %}
+        {% endif %}
+        {% endfor %}
 
-    <hr class="m-0">
+    </div>
 
-    {% include resume/section/education.html %}
+</section>
 
-    <hr class="m-0">
+<!-- Pagination -->
+<ul class="pagination justify-content-center mb-4">
+    <li class="page-item">
+        <a class="page-link" href="#">&larr; Older</a>
+    </li>
+    <li class="page-item disabled">
+        <a class="page-link" href="#">Newer &rarr;</a>
+    </li>
+</ul>
 
-    {% include resume/section/skills.html %}
 
-    <hr class="m-0">
 
-    {% include resume/section/interests.html %}
-
-    <hr class="m-0">
-
-    {% include resume/section/awards.html %}
-
-</div>
-
-<!-- Custom scripts for this template -->
-<script src="{{site.baseurl}}/assets/js/resume.min.js"></script>
-
-</body>
-</html>
