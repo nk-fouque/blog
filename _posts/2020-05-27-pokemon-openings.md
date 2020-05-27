@@ -5,7 +5,7 @@ title:  "The big themes in Pokémon openings"
 date:   2020-05-27 12:25:00 +0200
 categories: fun
 summary: "If you've listened to the Pokémon openings, you must have noticed that they have a lot of similarity in their content, so I decided to try and do some Data Science with it"
-preview: http://placehold.it/2000x2000
+preview: https://cdn.bulbagarden.net/upload/d/d9/OPJ01.png
 author: nick
 --- 
 
