@@ -1,4 +1,268 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-05-20T10:58:22+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T13:20:51+02:00</published><updated>2020-04-10T13:20:51+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-05-27T20:30:11+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">The big themes in Pokémon openings</title><link href="http://localhost:4000/blog/pokemon-openings/" rel="alternate" type="text/html" title="The big themes in Pokémon openings" /><published>2020-05-27T12:25:00+02:00</published><updated>2020-05-27T12:25:00+02:00</updated><id>http://localhost:4000/blog/pokemon-openings</id><content type="html" xml:base="http://localhost:4000/blog/pokemon-openings/">&lt;h2 id=&quot;preamble&quot;&gt;Preamble&lt;/h2&gt;
+&lt;p&gt;If you’re a fan of Pokémon, and you’ve watched the anime, no matter your age, there is very few chances you’ve started with subbed anime, 
+and since it was kind of the norm in the 90s when Pokémon appeared, the opening songs had an english version
+(which were not even a translation of the japanese one in english but a full-on new melody and new lyrics and a new editing of the opening credits).
+Other countries either had the english version, or the same music but with the lyrics translated to their language (my case in France).&lt;/p&gt;
+
+&lt;p&gt;So no matter where you come from, except if you’re from Japan or have always watched it subbed, 
+you should have heard the same things as me and come to the same realization : 
+there are pretty recurrent themes in those openings.&lt;/p&gt;
+
+&lt;p&gt;I don’t even know how it came to my mind when I haven’t watched it in years but I challenged myself to verify it with visualization.
+The lyrics were taken from &lt;a href=&quot;https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Theme&quot;&gt;Bulbapedia&lt;/a&gt; and the timings were recorded by myself.
+Here we go&lt;/p&gt;
+
+&lt;h2 id=&quot;the-analysis&quot;&gt;The Analysis&lt;/h2&gt;
+
+&lt;h3 id=&quot;season-1&quot;&gt;Season 1&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season1.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 1 opening : Pokémon Theme&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;h4 id=&quot;graph-explanation&quot;&gt;Graph explanation&lt;/h4&gt;
+&lt;p&gt;I’ll take this first season to clarify the graph for you, for the next openings we will focus on the content
+So as you can see, I have divided the graph in four lines, which are the four big themes already laid out by this first opening,&lt;/p&gt;
+
+&lt;p&gt;The first one, in blue, is reserved for the &lt;strong&gt;Pokémon&lt;/strong&gt; word itself, since it is the most used word in the whole database : 60 occurences out of the 22 openings.&lt;/p&gt;
+
+&lt;p&gt;The second one, which ranges from Yellow to Red, is dedicated to everything that appeals to strength, as well as the terms used to designate “the best trainer”.&lt;/p&gt;
+
+&lt;p&gt;The third one, in shades of green, is dedicated to the other themes of the Pokémon franchise (and important to the nekketsu genre in general) : friendship, courage, adventure, etc.&lt;/p&gt;
+
+&lt;p&gt;The Fourth one, in a range of pink to purple, denotates aspirations, destiny, and all big concepts like that.&lt;/p&gt;
+
+&lt;p&gt;The x-axis represents the seconds in the music where the words appear.&lt;/p&gt;
+
+&lt;p&gt;Note : You will probably notice in the legend some terms that are not used later, that is because I already show all the words I’ll be using in the future.&lt;/p&gt;
+
+&lt;h4 id=&quot;a-good-start&quot;&gt;A good start&lt;/h4&gt;
+
+&lt;p&gt;So as I’ve mentioned, season 1 already lays out the big themes that we will find throughout the series and its openings, 
+we can note that those lyrics start by “being the best” and mentions &lt;strong&gt;Pokémon&lt;/strong&gt; quite late comparing to the ones that will follow; 
+and they only add the two other big themes in the second half.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-2&quot;&gt;Season 2&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season2.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 2 opening : Pokémon world&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As you can see, the second season’s opening is heavily focused on “being the master”,
+funny when you know that for 20 years it will be the only one where Ash actually becomes the champion.
+And since the title is &lt;em&gt;Pokémon world&lt;/em&gt; those words are repeated a lot,
+ in fact it is the opening that has the highest count of &lt;strong&gt;Pokémon&lt;/strong&gt;, with 11 occurences.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-3&quot;&gt;Season 3&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season3.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 3 opening : Pokémon Johto&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;The third’s season’s opening was supposed to introduce a new Pokémon region, 
+so it is more focused on its theme of “A whole new world”, as it repeats it quite often, 
+but it also repeats &lt;em&gt;Pokémon Johto&lt;/em&gt; instead of just “Pokémon” like its predecessors.&lt;/p&gt;
+
+&lt;p&gt;It’s the first opening to set a tendency that we will see a lot of in the future : the occurences of &lt;strong&gt;Pokémon&lt;/strong&gt; are located at the beginning and the end, with few ones in the middle.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-4&quot;&gt;Season 4&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season4.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 4 opening : Born to be a Winner&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Note : from here on the openings are 45s long instead of 60s&lt;/p&gt;
+
+&lt;p&gt;This opening starts with samples of the first one, but as you would expect from &lt;em&gt;Born to be a Winner&lt;/em&gt;, 
+it is even more focused on this theme than the other openings, 
+so much so that it doesn’t really let room for the rest.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-5&quot;&gt;Season 5&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season5.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 5 opening : Believe in Me&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Not much to say about this one : it is mostly about “The &lt;strong&gt;path&lt;/strong&gt; to &lt;strong&gt;victory&lt;/strong&gt;” and of course it hase the theme of its season &lt;em&gt;The &lt;strong&gt;Master Quest&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;season-6&quot;&gt;Season 6&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season6.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 6 opening : I Wanna be a Hero&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Again, we have an opening that is supposed to introduce a new region, so of course the first line has “brand new &lt;strong&gt;world&lt;/strong&gt;” in it.
+But then it takes a very different approach from the third season : finding your way and becoming hero.&lt;/p&gt;
+
+&lt;p&gt;Note that it doesn’t say &lt;strong&gt;Pokémon&lt;/strong&gt; At the beginning, but it does mention Pallet Town.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-7&quot;&gt;Season 7&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season7.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 7 opening : This Dream&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one I find very interesting, because we can see the second theme shift to a softer approach, 
+it’s not about being the best or winning anymore, it’s more about the battles and the challenges themselves, 
+and of course it’s about &lt;em&gt;This Dream&lt;/em&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;season-8&quot;&gt;Season 8&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season8.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 8 opening : Unbeatable&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This graph is another one where the title (well not the title exactly, but the name of the season) has a great presence, 
+but it’s even more noticeable since the other themes almost have nothing, even if I wanted to put more points, 
+they would be red to represent all the “unbeatable” and “undefeatable”.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-9&quot;&gt;Season 9&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season9.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 9 opening : Battle Frontier&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;Note : from here on the openings are 30s long instead of 45s, I changed the scale to be increase readability.&lt;/p&gt;
+
+&lt;p&gt;This high number of keywords is very surprising when you consider that it’s the first opening to be that short, 
+and moreover it is very diverse.&lt;/p&gt;
+
+&lt;p&gt;It might be worth noticing that it is the first opening that doesn’t say &lt;strong&gt;world&lt;/strong&gt;, 
+which is funny when you know that it has been used in english by many countries that had had localized versions before .&lt;/p&gt;
+
+&lt;h3 id=&quot;season-10&quot;&gt;Season 10&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season10.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 10 opening : Diamond and Pearl&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one could not be more obvious : the first lines state “it’s a brand new game, a brand new world” as its introduction to a new region.&lt;/p&gt;
+
+&lt;p&gt;There is a nice progression from “it’s all about the &lt;strong&gt;challenges&lt;/strong&gt;” → &lt;strong&gt;battle&lt;/strong&gt; → &lt;strong&gt;win&lt;/strong&gt; → &lt;strong&gt;master&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;season-11&quot;&gt;Season 11&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season11.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 11 opening : We will be Heroes&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I don’t have much to say about this one, it’s very classical and diverse.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-12&quot;&gt;Season 12&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season12.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 12 opening : Battle Cry - (Stand Up!)&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Like n°10, there is kind of an escalation in the fighting, except there is no mention of the best anymore.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-13&quot;&gt;Season 13&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season13.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 13 opening : We Will Carry On!&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one is super interesting because there is almost no mention of fight or power, 
+(the only point in that category is from the season’s name : Sinnoh League Victors, which I’ve made count as &lt;strong&gt;Victory&lt;/strong&gt;)
+This is a real shift in focus and the whole Unova arc (seasons 14, 15 &amp;amp; 16) will follow that new tendency&lt;/p&gt;
+
+&lt;h3 id=&quot;season-14&quot;&gt;Season 14&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season14.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 14 opening : Black and White&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;As the season introducing the new region of Unova, this opening doesn’t use the word &lt;strong&gt;world&lt;/strong&gt; but it is mostly about choosing a &lt;strong&gt;path&lt;/strong&gt;&lt;/p&gt;
+
+&lt;h3 id=&quot;season-15--16&quot;&gt;Season 15 &amp;amp; 16&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season15.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 15 opening : Rival Destinies&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season16.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 16 opening : It's Always You and Me&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Nothing to add beyond the fact that those two follow the new tendency of focusing more on paths and friends than battle and masters&lt;/p&gt;
+
+&lt;h3 id=&quot;season-17&quot;&gt;Season 17&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season17.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 17 opening : Pokémon Theme (XY Version)&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season1.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 1 opening : Pokémon Theme&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;This one is very particular as it is a remix of the first one, so I’m putting the first one beside it to compare, 
+and it is interesting to see that while its length has been divided by two, there is not a lot that is missing.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-18&quot;&gt;Season 18&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season18.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 18 opening : Be a Hero&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;While this opening doesn’t directly refer to season 6, 
+it does start with “you’re just a kid on a quest” when &lt;em&gt;I Wanna be a Hero&lt;/em&gt; started with “A kid from Pallet Town”, but it might just be me making strange correlation at this point.&lt;/p&gt;
+
+&lt;p&gt;Apart from that, we can notice that the lyrics have shifted back to a state closer to the first season, with more battle and fights.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-19&quot;&gt;Season 19&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season19.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 19 opening : Stand Tall&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;Strange to see that this one doesn’t seem to have anything in it, but really, it’s very empty even with the full text, it has three sentences :&lt;/p&gt;
+
+&lt;p&gt;&lt;em&gt;I stand tall ‘cause I know I’m a Winner
+Knock me down, I’ll just get up again
+You’ve met your match, yeah, I’m no beginner&lt;/em&gt;&lt;/p&gt;
+
+&lt;p&gt;And the rest is just &lt;strong&gt;&lt;em&gt;Pokémon&lt;/em&gt;&lt;/strong&gt; and &lt;em&gt;Gotta catch’em all&lt;/em&gt;;
+however, a very big thing to notice is the fact that &lt;strong&gt;&lt;em&gt;Pokémon&lt;/em&gt;&lt;/strong&gt; it doesn’t end with are not the last words.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-20--21&quot;&gt;Season 20 &amp;amp; 21&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season20.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 20 opening : Under th Alolan Sun&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season21.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 21 opening : Under th Alolan Moon&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;I’m putting these two side by side because… otherwise there’s nothing much to say.
+This emptyness is kinda interesting in itself though, 
+it’s not much about the battles anymore but it’s not a lot about friendship either.&lt;/p&gt;
+
+&lt;p&gt;And I think it actually speaks about why people have criticized the Sun &amp;amp; Moon arc a lot 
+(apart from its new art style which is a subjective preference).&lt;/p&gt;
+
+&lt;p&gt;In those lyrics, just like the anime itself, the theme is discovery,
+it is made for people who don’t know Pokémon and need to learn about it, just like the protagonists go to a Pokémon school.
+And it shows that Game Freak knows that their old public have aged and don’t watch the anime anymore, 
+and now they have to renew their audience.&lt;/p&gt;
+
+&lt;h3 id=&quot;season-22&quot;&gt;Season 22&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season22.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 22 opening : The challenge of Life&lt;/figcaption&gt;
+&lt;/figure&gt;
+
+&lt;p&gt;And to follow what I just said, now that the audience is familiarized with the franchise, 
+we can go back on track with the battles (or more precisely here the &lt;strong&gt;challenge&lt;/strong&gt;)&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Well it was fun, and it certainly made me think about the evolution of the series.
+I hope it was entertaining for you too.&lt;/p&gt;
+
+&lt;p&gt;PS : I’ll make a note (though a bit late) that I personally discovered Pokémon with the season 8 in French and I started to watch fansubs of the Japanese versions from season 12, stopped at 14, started back at 17.
+If you felt in any way that I was biased towards those openings, that might be why.  &lt;br /&gt;
+PPS : I’m sorry for all my colorblind friends, but I had to use a lot of colors so sometimes the shades are really close to each other&lt;/p&gt;
+
+&lt;p&gt;Thank you for reading this to the end, see you next time.&lt;/p&gt;</content><author><name>nick</name></author><summary type="html">Preamble If you’re a fan of Pokémon, and you’ve watched the anime, no matter your age, there is very few chances you’ve started with subbed anime, and since it was kind of the norm in the 90s when Pokémon appeared, the opening songs had an english version (which were not even a translation of the japanese one in english but a full-on new melody and new lyrics and a new editing of the opening credits). Other countries either had the english version, or the same music but with the lyrics translated to their language (my case in France).</summary></entry><entry><title type="html">Welcome to Jekyll!</title><link href="http://localhost:4000/blog/welcome-to-jekyll/" rel="alternate" type="text/html" title="Welcome to Jekyll!" /><published>2020-04-10T13:20:51+02:00</published><updated>2020-04-10T13:20:51+02:00</updated><id>http://localhost:4000/blog/welcome-to-jekyll</id><content type="html" xml:base="http://localhost:4000/blog/welcome-to-jekyll/">&lt;p&gt;You’ll find this post in your &lt;code class=&quot;highlighter-rouge&quot;&gt;_posts&lt;/code&gt; directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run &lt;code class=&quot;highlighter-rouge&quot;&gt;jekyll serve&lt;/code&gt;, which launches a web server and auto-regenerates your site when a file is updated.&lt;/p&gt;
 
 &lt;p&gt;Jekyll requires blog post files to be named according to the following format:&lt;/p&gt;
 
