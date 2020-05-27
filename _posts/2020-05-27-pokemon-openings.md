@@ -29,8 +29,8 @@ Here we go
 {% include figure.html url="/pokemon-openings/season1.png" caption="Pokémon season 1 opening : Pokémon Theme" %}
 
 #### Graph explanation
-I'll take this first season to clarify the graph for you, for the next openings we will focus on the content
-So as you can see, I have divided the graph in four lines, which are the four big themes already laid out by this first opening, 
+I'll take this first season to clarify the graph for you, for the next openings we will focus on the content.
+So as you can see, I have divided the graph in four lines, which are the four big themes already laid out by this first opening. 
 
 The first one, in blue, is reserved for the **Pokémon** word itself, since it is the most used word in the whole database : 60 occurences out of the 22 openings.
 
@@ -161,7 +161,7 @@ and it is interesting to see that while its length has been divided by two, ther
 While this opening doesn't directly refer to season 6, 
 it does start with "you're just a kid on a quest" when *I Wanna be a Hero* started with "A kid from Pallet Town", but it might just be me making strange correlation at this point.
 
-Apart from that, we can notice that the lyrics have shifted back to a state closer to the first season, with more battle and fights.
+Apart from that, we can notice that the lyrics have shifted back to a state closer to the first seasons, with more battle and fights.
 
 ### Season 19
 {% include figure.html url="/pokemon-openings/season19.png" caption="Pokémon season 19 opening : Stand Tall" %}
