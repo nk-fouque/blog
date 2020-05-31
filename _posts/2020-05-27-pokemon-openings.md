@@ -23,7 +23,7 @@ I don't even know how it came to my mind when I haven't watched it in years but 
 The lyrics were taken from [Bulbapedia](https://bulbapedia.bulbagarden.net/wiki/Pok%C3%A9mon_Theme) and the timings were recorded by myself.
 Here we go
 
-## The Analysis
+## The Commentary
 
 ### Season 1
 {% include figure.html url="/pokemon-openings/season1.png" caption="Pokémon season 1 opening : Pokémon Theme" %}
