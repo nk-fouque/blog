@@ -31,6 +31,8 @@ github_username:  nk-fouque
 theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-jupyter-notebook
+  - jekyll-sitemap
 destination: docs
 
 sass:
