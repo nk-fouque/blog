@@ -7,7 +7,7 @@
         <div class="card-body">
             <div class="container-fluid">
                 {% for category in site.categories %}
-                    <a class="btn btn-primary mb-1" href="/categories#{{category[0]}}" role="button">
+                    <a class="btn btn-primary mb-1" href="{{site.baseurl}}/categories#{{category[0]}}" role="button">
                         {{category[0] | capitalize}}  <span class="badge badge-light">{{category[1] | size}}</span>
                     </a>
                 {% endfor %}
