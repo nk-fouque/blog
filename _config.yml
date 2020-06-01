@@ -39,6 +39,9 @@ sass:
   style: compressed
   sass_dir: _sass
 
+staticman:
+  api: "https://staticman-nkfouque.herokuapp.com/v2/entry/nk-fouque/blog-comments/master/comments"
+
 # Excluded directories
 exclude:
 - .jekyll-cache/
