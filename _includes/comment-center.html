@@ -18,23 +18,15 @@
             <input name="options[redirect]" type="hidden" value="#">
             <input name="options[slug]" type="hidden" value="{{page.url | replace: "/",""}}">
             <div class="form-group">
-                <label>Name: <input class="form-control" name="fields[name]" type="text" class="form-control"></label><br>
-                <label>Email: <input class="form-control" name="fields[email]" type="email"></label><br>
+                <label>Name: <input class="form-control" name="fields[name]" type="text" class="form-control" required="required"></label><br>
+<!--                <label>Email: <input class="form-control" name="fields[email]" type="email"></label><br>-->
+                <label>Message :</label>
                 <textarea class="form-control" name="fields[message]" rows="3"></textarea>
             </div>
             <button type="submit" class="btn btn-primary">Submit</button>
         </form>
     </div>
 </div>
-
-<form method="POST" action="{{ site.staticman.api }}">
-    <input name="options[redirect]" type="hidden" value="{{ site.url }}">
-    <input name="options[slug]" type="hidden" value="{{page.url | replace: "/",""}}">
-    <label>Name: <input name="fields[name]" type="text"></label><br>
-    <label>Email: <input name="fields[email]" type="email"></label><br>
-    <label>Message: <br><textarea name="fields[message]" rows="12" cols="36"></textarea></label><br>
-    <input type="submit" value="Submit">
-</form>
 
 <div id="includedComments"></div>
 

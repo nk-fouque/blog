@@ -348,6 +348,39 @@ PPS : I’m sorry for all my colorblind friends, but I had to use a lot of color
 <p>Thank you for reading this to the end, see you next time.</p>
 
 
+<script>
+    $(function(){
+        
+        
+        $("#includedComments").load("https://nk-fouque.github.io/blog-comments/ #pokemon-openings");
+    });
+</script>
+
+
+<!-- Comments Form -->
+<div class="card my-4">
+    <div class="card-header">
+        <h5>Leave a Comment:</h5>
+        <p>*Note that comments are managed in a weird way that makes them slow to show up (5-10 minutes)</p>
+    </div>
+    <div class="card-body">
+        <form method="POST" action="https://staticman-nkfouque.herokuapp.com/v2/entry/nk-fouque/blog-comments/master/_comments">
+            <input name="options[redirect]" type="hidden" value="#">
+            <input name="options[slug]" type="hidden" value="pokemon-openings">
+            <div class="form-group">
+                <label>Name: <input class="form-control" name="fields[name]" type="text" class="form-control" required="required"></label><br>
+<!--                <label>Email: <input class="form-control" name="fields[email]" type="email"></label><br>-->
+                <label>Message :</label>
+                <textarea class="form-control" name="fields[message]" rows="3"></textarea>
+            </div>
+            <button type="submit" class="btn btn-primary">Submit</button>
+        </form>
+    </div>
+</div>
+
+<div id="includedComments"></div>
+
+
 
         </div>
 
