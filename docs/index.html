@@ -193,12 +193,22 @@
 
 <!-- Footer -->
 <footer class="py-1 bg-primary fixed-bottom">
-    <div class="container">
+    <div class="container footer-hide">
+        <tr style="background-color: lavender;">
+            <th><a href="#" class="close" data-dismiss="panel" aria-label="close" id="hide">&times;</a></th>
+        </tr>
         <p class="m-0 text-center text-white">This blog is still a work in progress, so there is not much content for now, thanks for your patience</p>
         <p class="m-0 text-center text-white">Also it's very inadapted for mobile, I'm working on that</p>
     </div>
     <!-- /.container -->
 </footer>
 
+<script>
+    $(document).ready(function() {
+        $("#hide").click(function(){
+            $(".footer-hide").hide();
+        });
+    });
+</script>
 
 </body>
