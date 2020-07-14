@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-07-12T22:13:28+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">White House public petitions</title><link href="http://localhost:4000/blog/whitehouse-petitions/" rel="alternate" type="text/html" title="White House public petitions" /><published>2020-05-31T17:12:00+02:00</published><updated>2020-05-31T17:12:00+02:00</updated><id>http://localhost:4000/blog/whitehouse-petitions</id><content type="html" xml:base="http://localhost:4000/blog/whitehouse-petitions/">&lt;div class=&quot;jupyter-notebook&quot; style=&quot;position: relative; width: 100%; margin: 0 auto;&quot;&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.0.0">Jekyll</generator><link href="http://localhost:4000/blog/feed.xml" rel="self" type="application/atom+xml" /><link href="http://localhost:4000/blog/" rel="alternate" type="text/html" /><updated>2020-07-14T12:58:51+02:00</updated><id>http://localhost:4000/blog/feed.xml</id><title type="html">Nick’s Rants</title><subtitle>I just wanted to set up a blog so it's already there if I ever need it</subtitle><entry><title type="html">White House public petitions</title><link href="http://localhost:4000/blog/whitehouse-petitions/" rel="alternate" type="text/html" title="White House public petitions" /><published>2020-05-31T17:12:00+02:00</published><updated>2020-05-31T17:12:00+02:00</updated><id>http://localhost:4000/blog/whitehouse-petitions</id><content type="html" xml:base="http://localhost:4000/blog/whitehouse-petitions/">&lt;div class=&quot;jupyter-notebook&quot; style=&quot;position: relative; width: 100%; margin: 0 auto;&quot;&gt;
   &lt;div class=&quot;jupyter-notebook-iframe-container&quot;&gt;
     &lt;iframe src=&quot;/blog/notebooks/whitehouse-petitions.ipynb.html&quot; style=&quot;position: absolute; top: 0; left: 0; border-style: none;&quot; width=&quot;100%&quot; height=&quot;100%&quot; onload=&quot;this.parentElement.style.paddingBottom = (this.contentWindow.document.documentElement.scrollHeight + 10) + 'px'&quot;&gt;&lt;/iframe&gt;
   &lt;/div&gt;
@@ -230,11 +230,11 @@ however, a very big thing to notice is the fact that &lt;strong&gt;&lt;em&gt;Pok
 &lt;h3 id=&quot;season-20--21&quot;&gt;Season 20 &amp;amp; 21&lt;/h3&gt;
 &lt;figure&gt;
     &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season20.png&quot; alt=&quot;&quot; /&gt;
-    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 20 opening : Under th Alolan Sun&lt;/figcaption&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 20 opening : Under the Alolan Sun&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
     &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season21.png&quot; alt=&quot;&quot; /&gt;
-    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 21 opening : Under th Alolan Moon&lt;/figcaption&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon season 21 opening : Under the Alolan Moon&lt;/figcaption&gt;
 &lt;/figure&gt;
 
 &lt;p&gt;I’m putting these two side by side because… otherwise there’s nothing much to say.
@@ -258,11 +258,37 @@ and now they have to renew their audience.&lt;/p&gt;
 &lt;p&gt;And to follow what I just said, now that the audience is familiarized with the franchise, 
 we can go back on track with the battles (or more precisely here the &lt;strong&gt;challenge&lt;/strong&gt;)&lt;/p&gt;
 
-&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
-&lt;p&gt;Well it was fun, and it certainly made me think about the evolution of the series.
-I hope it was entertaining for you too.&lt;/p&gt;
+&lt;h3 id=&quot;update--season-23&quot;&gt;UPDATE : Season 23&lt;/h3&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/season23.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;Pokémon Journeys opening : The Jouney starts Today&lt;/figcaption&gt;
+&lt;/figure&gt;
 
-&lt;p&gt;PS : I’ll make a note (though a bit late) that I personally discovered Pokémon with the season 8 in French and I started to watch fansubs of the Japanese versions from season 12, stopped at 14, started back at 17.
+&lt;p&gt;This theme is a revolution in the Pokémon franchise as it is the first one to not directly say “Pokémon”, 
+and you’ll notice that it is empty in the “Fight/Victory” category too.&lt;br /&gt;
+Of course the &lt;strong&gt;Journey&lt;/strong&gt; is the main focus of the song since it is the focus of the season too (even in the title).&lt;br /&gt;
+You can really feel the shift in the atmosphere, just like &lt;em&gt;Pokémon Journeys&lt;/em&gt; itself is a big shift in the way the show is handled, 
+being named just “Pokémon” in Japan, and being the only season since season 2 that doesn’t follow the path of a mainline videogame 
+(but season 2 didn’t have a videogame launched at the same time so the circumstances were different).&lt;/p&gt;
+
+&lt;h2 id=&quot;conclusion&quot;&gt;Conclusion&lt;/h2&gt;
+&lt;p&gt;Well it was fun, and it certainly made me think about the evolution of the series.&lt;br /&gt;
+If you want a graphical representation of the evolution here is one :&lt;/p&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/recap_line.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+    &lt;img class=&quot;figure-img&quot; src=&quot;/blog/assets/posts//pokemon-openings/recap_area.png&quot; alt=&quot;&quot; /&gt;
+    &lt;figcaption class=&quot;figure-caption&quot;&gt;&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;p&gt;We can see that the word &lt;strong&gt;Pokémon&lt;/strong&gt; has decreased and stabilized around 2-3 occurences (but &lt;em&gt;Pokémon Journeys&lt;/em&gt; might be setting a whole new trend).&lt;br /&gt;
+The &lt;strong&gt;Battle/Victory&lt;/strong&gt; category has been steadily decreasing, giving its place to the &lt;strong&gt;Friends/Adventure&lt;/strong&gt; but it has pretty big spikes from time to time.
+Also the &lt;strong&gt;Ideals&lt;/strong&gt; category has stayed pretty consistent over the years.&lt;/p&gt;
+
+&lt;p&gt;I hope this article was as entertaining for you to read as it was for me to write.&lt;/p&gt;
+
+&lt;p&gt;PS : I’ll make a note (though a bit late) that I personally discovered Pokémon with the season 8 in French and I watched fansubs of the Japanese versions from season 12, 13, 14, 17 and 23.
 If you felt in any way that I was biased towards those openings, that might be why.  &lt;br /&gt;
 PPS : I’m sorry for all my colorblind friends, but I had to use a lot of colors so sometimes the shades are really close to each other&lt;/p&gt;
 

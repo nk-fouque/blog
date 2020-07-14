@@ -176,8 +176,8 @@ And the rest is just ***Pokémon*** and *Gotta catch'em all*;
 however, a very big thing to notice is the fact that ***Pokémon*** it doesn't end with are not the last words.
 
 ### Season 20 & 21
-{% include figure.html url="/pokemon-openings/season20.png" caption="Pokémon season 20 opening : Under th Alolan Sun" %}
-{% include figure.html url="/pokemon-openings/season21.png" caption="Pokémon season 21 opening : Under th Alolan Moon" %}
+{% include figure.html url="/pokemon-openings/season20.png" caption="Pokémon season 20 opening : Under the Alolan Sun" %}
+{% include figure.html url="/pokemon-openings/season21.png" caption="Pokémon season 21 opening : Under the Alolan Moon" %}
 
 I'm putting these two side by side because... otherwise there's nothing much to say.
 This emptyness is kinda interesting in itself though, 
@@ -197,11 +197,29 @@ and now they have to renew their audience.
 And to follow what I just said, now that the audience is familiarized with the franchise, 
 we can go back on track with the battles (or more precisely here the **challenge**)
 
-## Conclusion
-Well it was fun, and it certainly made me think about the evolution of the series.
-I hope it was entertaining for you too. 
+### UPDATE : Season 23
+{% include figure.html url="/pokemon-openings/season23.png" caption="Pokémon Journeys opening : The Jouney starts Today" %}
 
-PS : I'll make a note (though a bit late) that I personally discovered Pokémon with the season 8 in French and I started to watch fansubs of the Japanese versions from season 12, stopped at 14, started back at 17.
+This theme is a revolution in the Pokémon franchise as it is the first one to not directly say "Pokémon", 
+and you'll notice that it is empty in the "Fight/Victory" category too.  
+Of course the **Journey** is the main focus of the song since it is the focus of the season too (even in the title).  
+You can really feel the shift in the atmosphere, just like *Pokémon Journeys* itself is a big shift in the way the show is handled, 
+being named just "Pokémon" in Japan, and being the only season since season 2 that doesn't follow the path of a mainline videogame 
+(but season 2 didn't have a videogame launched at the same time so the circumstances were different).
+   
+
+## Conclusion
+Well it was fun, and it certainly made me think about the evolution of the series.  
+If you want a graphical representation of the evolution here is one : 
+{% include figure.html url="/pokemon-openings/recap_line.png" %}
+{% include figure.html url="/pokemon-openings/recap_area.png" %}
+We can see that the word **Pokémon** has decreased and stabilized around 2-3 occurences (but *Pokémon Journeys* might be setting a whole new trend).  
+The **Battle/Victory** category has been steadily decreasing, giving its place to the **Friends/Adventure** but it has pretty big spikes from time to time.
+Also the **Ideals** category has stayed pretty consistent over the years.
+
+I hope this article was as entertaining for you to read as it was for me to write. 
+
+PS : I'll make a note (though a bit late) that I personally discovered Pokémon with the season 8 in French and I watched fansubs of the Japanese versions from season 12, 13, 14, 17 and 23.
 If you felt in any way that I was biased towards those openings, that might be why.    
 PPS : I'm sorry for all my colorblind friends, but I had to use a lot of colors so sometimes the shades are really close to each other
 
